@@ -1,0 +1,5 @@
+C:\Users\samia\OneDrive\Desktop\repo\Syntax and Syntax Sugar Exercises\obj\Debug\net6.0\Syntax and Syntax Sugar Exercises.csproj.AssemblyReference.cache
+C:\Users\samia\OneDrive\Desktop\repo\Syntax and Syntax Sugar Exercises\obj\Debug\net6.0\Syntax and Syntax Sugar Exercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samia\OneDrive\Desktop\repo\Syntax and Syntax Sugar Exercises\obj\Debug\net6.0\Syntax and Syntax Sugar Exercises.AssemblyInfoInputs.cache
+C:\Users\samia\OneDrive\Desktop\repo\Syntax and Syntax Sugar Exercises\obj\Debug\net6.0\Syntax and Syntax Sugar Exercises.AssemblyInfo.cs
+C:\Users\samia\OneDrive\Desktop\repo\Syntax and Syntax Sugar Exercises\obj\Debug\net6.0\Syntax and Syntax Sugar Exercises.csproj.CoreCompileInputs.cache
